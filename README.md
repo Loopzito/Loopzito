@@ -10,7 +10,7 @@
   <a href="https://github.com/Loopzito" target="_blank" </a> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <a href="https://instagram.com/loop.dev" target="_blank" </a> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     <a href="https://youtube.com/c/Loopzito" target="_blank" </a> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-   <a href="loopzito.contato@gmail.com" target="_blank" <a> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+   <a href="https://loopzito.contato@gmail.com" target="_blank" <a> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
   
 <div>
