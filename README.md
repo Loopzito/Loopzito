@@ -1,4 +1,4 @@
-Olá, bem vindo ao meu perfil!
+<h1>Olá, bem vindo ao meu perfil!</h1>
 <div>
    <a href="github.com/Loopzito">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Loopzito&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
